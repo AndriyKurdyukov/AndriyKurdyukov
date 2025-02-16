@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AndriyKurdyukov
-- 🌱 I’m currently refreshing my programming skills
+
 
 <!---
 AndriyKurdyukov/AndriyKurdyukov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
