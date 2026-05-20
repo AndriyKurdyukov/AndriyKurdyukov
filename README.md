@@ -12,6 +12,7 @@ Main skills
 - Python
 - FreeRTOS
 - Test driven development and Unit Testing
+- Oscilloscope and multimeter
 
 Experience with wireless communication protocols
 - NFC (ISO15693)
